@@ -15,35 +15,23 @@ ABC, a growing e-commerce company, aims to analyze customer behavior, revenue pa
 
 ### c> Data Cleaning
 
-i> Checking and fixing null values
+i> Checking null values
 
- ![App Screenshot](https://github.com/RahulB711/Cars24-Market-Insights-Uncovering-Trends-Opportunities/blob/main/Screenshot/rectification-nullvalues.png?raw=true)
+![image](https://github.com/user-attachments/assets/d08a30e9-2c68-4b30-9075-1b27aa7ce30a)
  
 
 ii> Checking for noise values
-![App Screenshot](https://github.com/RahulB711/Cars24-Market-Insights-Uncovering-Trends-Opportunities/blob/main/Screenshot/noisevlues.png?raw=true)
+
+![image](https://github.com/user-attachments/assets/917fe9b6-2cae-476a-8732-4e5f91e61cc8)
 
 
-Finished Cars_24 Dataset
- ![App Screenshot](https://github.com/RahulB711/Cars24-Market-Insights-Uncovering-Trends-Opportunities/blob/main/Screenshot/Finalizeddataset.png?raw=true)
-In our final Cars24 dataset we have 16 columns and 1274 rows
+iii> Handling Special Character
 
+![image](https://github.com/user-attachments/assets/4a579b40-e30d-4a7e-91a6-1c148aa18d97)
 
+iv> Handling Duplicate Value
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![image](https://github.com/user-attachments/assets/35d1b0dc-61ea-480d-b40f-a5d40c072c35)
 
 ## Report Overview
 
