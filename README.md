@@ -46,6 +46,7 @@ In our final Cars24 dataset we have 16 columns and 1274 rows
 
 
 ## Report Overview
+
 ### a. Page Navigation
 
 ![image](https://github.com/user-attachments/assets/4d7934cd-18b3-4989-a567-25f493ea35cd)
@@ -68,69 +69,73 @@ In our final Cars24 dataset we have 16 columns and 1274 rows
 
 ## Top Insights
 
-## 1:CLV (customer life time value)
+### 1:CLV (customer life time value)
 
 ![image](https://github.com/user-attachments/assets/38aebaf9-233c-4e30-aa93-571e606be63f)
 
 Based on my analysis, I concluded high CLV is equally influenced by purchase frequency, average order value (AOV), and customer lifespan. This balance highlights the importance of encouraging repeat purchases, increasing the average spend per transaction, and fostering long-term customer relationships.
 
 
-## 2: Customer Distribution
+### 2: Customer Distribution
 
 ![image](https://github.com/user-attachments/assets/ecf8b2f7-73dd-4eed-ab79-2f44524041d5)
 
 This insight highlights that the number of repeated customers significantly exceeds the number of non-repeated customers. Additionally, the analysis shows a notable difference in the Average Order Value (AOV) between these customer groups
 
-## 3: Top 5 Country,State by Revenue 
+### 3: Top 5 Country,State by Revenue 
 
-![App Screenshot](https://github.com/RahulB711/Cars24-Market-Insights-Uncovering-Trends-Opportunities/blob/main/Screenshot/Most%20popular%20car%20model.png?raw=true)
+![image](https://github.com/user-attachments/assets/1134ff65-6a21-44d8-8ee1-f50852f38aa0)
 
 It provides a detailed hierarchical view of revenue distribution across top5 country and its states
 
- ## 4: RTO Office Impact:
+ ### 4: Order Delivery Performance
 
-![App Screenshot](https://github.com/RahulB711/Cars24-Market-Insights-Uncovering-Trends-Opportunities/blob/main/Screenshot/RTO.png?raw=true)
+![image](https://github.com/user-attachments/assets/c99afa09-fbb9-40ed-96ff-defee9cb7843)
 
-Study the 'RTO Office' data to determine if the location of vehicle registration has any influence on pricing.
+Over the years, the average delivery time (difference between order and delivery dates) has consistently decreased.
+This indicates that the company has improved its logistics, supply chain management, and delivery operations.
 
-Here initially we find out same car model in different rto location discount car price are different as we deep dive into it we found these can be due to :
+### 5: Monthly Sales Trends
 
-a:> different car Variants like Amanual,T(O) 1.0 Manual etc
+![image](https://github.com/user-attachments/assets/6677f0c9-515d-444d-86c9-a28d59683ce5)
 
-b:> different car Fuel type like Petrol,Diesel etc
+General Upward Trend:
+•	Sales are growing steadily over time, showing strong business momentum.
+Dip in October to November:
+•	There is a slight dip in sales during these months, which might be due to seasonal factors, reduced demand, or insufficient marketing efforts.
+Spike in December to January:
+•	A significant spike in sales is observed from December to January, likely due to holiday or year-end shopping, discounts, or promotions
 
-c:> different car ownereship
+### 6: Top 20 Low-Performing Products
 
-## Dashboard
+![image](https://github.com/user-attachments/assets/bc98a493-b6a3-41f6-8e07-667d97ccc534)
 
-![App Screenshot](https://github.com/RahulB711/Cars24-Market-Insights-Uncovering-Trends-Opportunities/blob/main/dashboard_image/Screenshot%202023-09-24%20215643.png?raw=true)
-
-It gives us a better understanding of the project by providing us with summarised visiuals of significant insights discovered during the project
+This observation suggests that the products contributing to the lowest performance in terms of sales or revenue are predominantly from the "eatable" category.
 
 ## Conclusion
-1.The highest discount rate is 9.5% for cars priced under 2.5 lakh, and the lowest is 6.0% for cars priced beyond 15 lakh.
- 
-2.The Maruti Swift is the most commonly used automobile in Bangalore, with 115 in total, followed by the Hyundai Grand I10, with 98 in total, and the most popular brands are also Maruti and Hyundai.
 
-3.Car_Model_Configuration:
- a>The VXI variation is found in the greatest number of car_models, 155.
+1.The customer with CustomerID 57115 holds the highest CLV value, amounting to 34,268,225.
 
- b>The majority of the vehicles are Petrol-powered, with 1073 in total.
+2.The top 5 countries by revenue are the United States, Portugal, India, Austria, and Belgium. Among these, the state generating the highest revenue recorded a total of 60,261,782.
 
- c> The vast majority of automobiles, approximately 74%, are manually transmitted.
+3.The repeated customer with the highest contribution has a total of 524 orders, generating a revenue of 174,131.
 
- d> In the category of car body type most vechiles are hatchback that is around 82%
+4. March 2021 stands out as the month with the highest revenue contribution, accompanied by the greatest number of orders.
 
-4.Ownership distribution: 
-Clearly, we can see that approximately 64% of the cars, or 810 in total, are first-ownership vehicles, 32% are second-ownership vehicles, and the remainder are third-ownership vehicles.
-
-5.We may conclude that the car with model year 2017 has the most automobiles (206), while car with  model year 2011 has the fewest cars (33).
 
 ## Summary and Challenges Faced:
 
-### Learning new tool
+### Company Standard Report
 
-Webscrapping from cars24 website using selenium.
+Well-Formatted Dashboards:
+Proper alignment, clean text formatting, and visually appealing design.
+Dashboards organized for easy navigation and interpretation.
+
+Multi-Level Structure:
+Page Navigation: Seamless navigation between pages for a smooth user experience.
+Introductory Page: A dedicated page summarizing the report's objectives and purpose.
+Dashboards: Detailed and insightful dashboards covering various metrics and analyses.
+Glossary: A comprehensive glossary explaining important terms used throughout the report for clarity.
 
 ### Data cleaning
 
@@ -142,7 +147,7 @@ Creating numerous key new columns for thorough analysis, which is critical for t
 
 ### Extraction and Visualisation
 
-Using sql and powerbi to extract crucial insights from datasets and translate them into visually appealing 
+Powerbi to extract crucial insights from datasets and translate them into visually appealing 
 visualisations.
 
 
