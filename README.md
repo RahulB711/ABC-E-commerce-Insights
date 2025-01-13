@@ -141,7 +141,7 @@ Glossary: A comprehensive glossary explaining important terms used throughout th
 
 Data was uncleaned and unorganised, but it was rectified in the proper format.
 
-#### Dataset Formation
+### Dataset Formation
 
 Creating numerous key new columns for thorough analysis, which is critical for this project. 
 
