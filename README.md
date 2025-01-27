@@ -41,7 +41,8 @@ iv> Handling Duplicate Value
 
 ### b. Introducory Page
 
-![image](https://github.com/user-attachments/assets/dba37540-cfd9-4a94-9236-85abd6b0b762)
+![image](https://github.com/user-attachments/assets/0ba2c896-2e38-4cb8-bbff-00b46316cab0)
+
 
 ### c. Customer Engagement & Revenue Analysis
 
