@@ -90,7 +90,7 @@ This indicates that the company has improved its logistics, supply chain managem
 
 General Upward Trend:
 •	Sales are growing steadily over time, showing strong business momentum.
-Dip in October to November:
+Dip in September to October:
 •	There is a slight dip in sales during these months, which might be due to seasonal factors, reduced demand, or insufficient marketing efforts.
 Spike in December to January:
 •	A significant spike in sales is observed from December to January, likely due to holiday or year-end shopping, discounts, or promotions
