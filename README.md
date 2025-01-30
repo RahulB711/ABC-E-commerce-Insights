@@ -37,9 +37,9 @@ iv> Handling Duplicate Value
 
 ### a. Page Navigation
 
-![image](https://github.com/user-attachments/assets/4d7934cd-18b3-4989-a567-25f493ea35cd)
+![image](https://github.com/user-attachments/assets/f5367323-8417-4e2c-b0f6-9f222657a276)
 
-### b. Introducory Page
+### b. Overview Page
 
 ![image](https://github.com/user-attachments/assets/0ba2c896-2e38-4cb8-bbff-00b46316cab0)
 
@@ -48,11 +48,19 @@ iv> Handling Duplicate Value
 
 ![image](https://github.com/user-attachments/assets/d615fe65-fca3-4278-9928-61b97fcae5e1)
 
-### d. Order Trends and Product Analytics
+### d. Customer Engagement & Revenue Analysis - Drill Through
+
+![image](https://github.com/user-attachments/assets/5a2c0958-2c3d-404a-a50b-3abb411e4fb4)
+
+### e. Order Trends and Product Analytics
 
 ![image](https://github.com/user-attachments/assets/e41cef9c-9ea4-4b31-8f8f-9127d2fb4df8)
 
-### e. Glossary
+### f. Order Trends and Product Analytics - Drill Through
+
+![image](https://github.com/user-attachments/assets/ec7ec9d6-c4d1-469c-a498-2bb525a6a5c7)
+
+### g. Glossary
 
 ![image](https://github.com/user-attachments/assets/f415f151-9d12-4458-9fef-12e20f605d47)
 
